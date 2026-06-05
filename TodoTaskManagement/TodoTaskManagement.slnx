@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="TodoTaskManagement.Application/TodoTaskManagement.Application.csproj" />
+  <Project Path="TodoTaskManagement.Domain/TodoTaskManagement.Domain.csproj" />
+  <Project Path="TodoTaskManagement.Infrastructure/TodoTaskManagement.Infrastructure.csproj" />
+  <Project Path="TodoTaskManagement/TodoTaskManagement.csproj" />
+  <Project Path="TodoTaskManagement.Tests/TodoTaskManagement.Tests.csproj" />
+</Solution>
