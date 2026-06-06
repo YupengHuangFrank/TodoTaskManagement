@@ -42,7 +42,7 @@ See `appsettings.json` for the full configuration reference.
 ```bash
 cd TodoTaskManagement
 dotnet restore
-dotnet run
+dotnet run --project TodoTaskManagement
 ```
 
 The API starts on `http://localhost:5268`. The SQLite database (`todotasks.db`) is created automatically on first run.
