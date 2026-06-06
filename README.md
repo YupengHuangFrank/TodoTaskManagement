@@ -40,7 +40,7 @@ See `appsettings.json` for the full configuration reference.
 **3. Run the API:**
 
 ```bash
-cd TodoTaskManagement/TodoTaskManagement
+cd TodoTaskManagement
 dotnet restore
 dotnet run
 ```
